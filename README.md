@@ -8,7 +8,7 @@ I know:
 
 I am learning:
 
-<img src = "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src = "https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/> <img src ="https://github.com/HimanshuSachdeva1011/HimanshuSachdeva1011/blob/main/matlab_94355.png"/>
+<img src = "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src = "https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/> <img src ="https://github.com/HimanshuSachdeva1011/HimanshuSachdeva1011/blob/main/matlab_94355.png"/ width = "100" height ="50">
 
 
 Reach Me here:
