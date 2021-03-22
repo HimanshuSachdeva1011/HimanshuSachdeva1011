@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Himanshu Sachdeva
 
-👀 I’m interested in learning Data Science.
+I’m interested in learning Data Science.
 
 ## I know:
 
