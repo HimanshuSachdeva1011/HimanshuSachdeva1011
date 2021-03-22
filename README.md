@@ -1,6 +1,6 @@
--👋 Hi, I’m Himanshu Sachdeva
+👋 Hi, I’m Himanshu Sachdeva
 
--👀 I’m interested in Data Science
+👀 I’m interested in Data Science
 
 Reach Me here:
 
