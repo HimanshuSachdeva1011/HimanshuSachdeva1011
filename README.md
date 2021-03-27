@@ -10,7 +10,7 @@ I’m interested in learning Data Science.
 
 <img src = "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src = "https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/> 
 
-## Reach Me here:
+## You can reach me via:
 
 <a href ="mailto:himanshu.sachdeva1011@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>   <a href = "https://www.linkedin.com/in/himanshu-sachdeva-10101/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <!---
