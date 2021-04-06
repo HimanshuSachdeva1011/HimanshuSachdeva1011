@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Himanshu Sachdeva
 
-I’m interested in learning Data Science.
+I am currently learning data science and machine learning.
 
 ## I know:
 
