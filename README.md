@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Himanshu Sachdeva
 
-I am currently learning data science and machine learning.
+I aspire to be a data scientist
 
 ## I know:
 
