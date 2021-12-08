@@ -26,4 +26,3 @@ You can click the Preview link to take a look at your changes.
 - 📫 You can reach me via <a href = "linkedin.com/in/himanshu-sachdeva-10101/">Linkedin</a> 
 <img src ="https://github.com/HimanshuSachdeva1011/HimanshuSachdeva1011/blob/main/matlab_94355.png"/ width = "100" height ="50">
 -->
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=hsachdeva10101&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
